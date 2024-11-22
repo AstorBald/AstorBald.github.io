@@ -20,8 +20,3 @@ onload = () => {
     clearTimeout(c);
   }, 1000);
 };
-<!-- Music -->
-  <h1> Audio / Video Autoplay </h1>
-  <audio autoplay>
-    <source src = "Moment.mp3" type="audio/mp3/>
-      </audio>
